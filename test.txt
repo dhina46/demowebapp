@@ -4,8 +4,11 @@ Trial 1 was succesful at 5.10PM with git to github to jenkins
 Trial 2 successful at 5.14PM
 IDE to github to jenkins
 
-Trial 3
+Trial 3 success
 github to jenkins
 
-Trial 4 
+Trial 4 success
 Poll SCM
+
+Trial 5 success
+build periodically
