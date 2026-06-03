@@ -6,3 +6,6 @@ IDE to github to jenkins
 
 Trial 3
 github to jenkins
+
+Trial 4 
+Poll SCM
