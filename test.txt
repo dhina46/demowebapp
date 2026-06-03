@@ -1,1 +1,6 @@
 Demo trial for On demand
+Trial 1 was succesful at 5.10PM with git to github to jenkins
+
+Trial 2 
+IDE to github to jenkins
+
