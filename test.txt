@@ -15,3 +15,5 @@ build periodically
 
 Trial 6 07-06-2026
 Webhook with build steps succesS
+Trial 7 
+Poll scm and build periodically
