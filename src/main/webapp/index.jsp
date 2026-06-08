@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h3 class="text-center">IF I get to see this it is working fine</h3>
-<h3 class="text-center">Build Remotly Working as expected when I provide Build Steps and post build Actions</h3>
+<h3 class="text-center">Changes moved to dev env stored artifacts and deployes to 8090</h3>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
